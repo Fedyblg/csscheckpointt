@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    font:roboto;
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around; /* x axis */
+    align-items: center;
+    
+}
+
+ul{
+    display:flex;
+    list-style: none;
+    margin-left:50px;
+}
+
+li{
+    margin-right:20px;
+}
+
+a{
+    text-decoration: none;
+    color: beige;
+    font-size: 20px;
+}
+
+.name {
+    color: beige;
+    font-size: 50px;
+    padding-right: 10cm;
+}
+div{background-color:dodgerblue;
+    height:700px;}
+
+#introduction {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;                                                                            
+    font-size: 50px;
+    padding-left: 650px;
+    padding-top: 60px;
+    color:azure;
+}
+#description{
+    padding-left: 660px;
+    font-size: 25px;
+    font:roboto;
+    color:antiquewhite;
+}
+#div2{
+    background-color:forestgreen;
+    height:230px
+}
+
+#con {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+    font: bold;
+}
+
+#bru {
+    font-size: 20px;
+    color:chartreuse;
+}
+
+#sign {
+    float: right;
+    padding-right:20px;
+}
+
+#pic4{
+    margin-left: 250px;
+}
+#pic3{
+    margin-left: 190px;
+}
+#pic2{
+    margin-left: 190px;
+}
+#pic1{
+    margin-left: 190px;
+}
+#div3 {
+    background-color: black;
+    color:white;
+    font-size: 20px;
+}
+#div4 {
+    background-color: burlywood;
+    height:714px;
+}
